@@ -1,0 +1,82 @@
+body {
+    margin: 10px;
+    background-color: #f9e1cc;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding: 20px;
+}
+
+#paginasRelacionadas {
+    display: flex;
+    background-color: #ea9557;
+    margin: 0;
+    padding: 10PX;
+    letter-spacing: 0;
+}
+
+#paginasRelacionadas:hover {
+    background-color: #fff;
+}
+
+#iconoDeNav {
+    top: 10px;
+    width: 50px;
+    height: 50px;
+}
+
+#pagina1 {
+    display: inline;
+    align-content: center;
+    margin-inline: 10px;
+}
+
+#pagina2 {
+    display: inline;
+    align-content: center;
+    margin-inline: 10px;
+}
+
+#pagina3 {
+    display: inline;
+    align-content: center;
+    margin-inline: 10px;
+}
+
+img {
+    width: 300px;
+    height: 150px;
+}
+
+header {
+    background-size: auto;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+}
+
+#tituloPrincipal {
+    display: flex;
+    justify-content: center;
+}
+
+#cachopoCabeza {
+    display: flex;
+    width: 500px;
+    height: 250px;
+    margin-top: 0;
+    margin-left: 600px;
+}
+
+#listaIngredinetes {
+    list-style-type: circle;
+}
+
+#pieDePagina {
+    font-size: 0.5em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+
